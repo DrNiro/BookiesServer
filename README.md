@@ -1,4 +1,5 @@
 # Bookies (Server)
 A books exchange and giveaway platform.
 
-Backend application, using spring tools and MySQL integrated with AWS RDB.
+
+REST-API Layered architecture Backend application, with spring tools and MySQL integrated with AWS RDB.
